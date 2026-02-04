@@ -23,11 +23,13 @@ Backend: Node.js
 Machine Learning: Weather forecasting model  
 
 
+
  ✨ Key Features
 - 🌦 ML-based weather forecasting  
 - 🌾 Crop guidance & reminders  
 - 🛒 E-commerce module  
 - 🤖 Chatbot assistance  
+
 
 
 🚀 Future Enhancements
